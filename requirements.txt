@@ -1,0 +1,8 @@
+Flask
+Scikit-learn
+tensorflow
+opencv-python 
+matplotlib   
+twilio 
+gunicorn
+boto3
